@@ -1,0 +1,226 @@
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:10.945910
+Start name method: open_website
+
+End time: 2023-10-22 18:36:12.432133
+End name method: open_website
+URL: https://www.onliner.by/
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:12.433128
+Start name method: open_catalog
+
+End time: 2023-10-22 18:36:13.669612
+End name method: open_catalog
+URL: https://catalog.onliner.by/
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:13.669612
+Start name method: check_catalog_navigation_title
+
+End time: 2023-10-22 18:36:13.721732
+End name method: check_catalog_navigation_title
+URL: https://catalog.onliner.by/
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:13.721732
+Start name method: open_computers_and_networks
+
+End time: 2023-10-22 18:36:13.824082
+End name method: open_computers_and_networks
+URL: https://catalog.onliner.by/
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:13.825086
+Start name method: open_laptops_computers_monitors
+
+End time: 2023-10-22 18:36:13.967113
+End name method: open_laptops_computers_monitors
+URL: https://catalog.onliner.by/
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:13.968115
+Start name method: open_laptops
+
+End time: 2023-10-22 18:36:15.427261
+End name method: open_laptops
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:15.428272
+Start name method: close_popover
+
+End time: 2023-10-22 18:36:16.022153
+End name method: close_popover
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:16.022153
+Start name method: check_laptops_title
+
+End time: 2023-10-22 18:36:16.066937
+End name method: check_laptops_title
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:16.066937
+Start name method: confirm_city
+
+End time: 2023-10-22 18:36:16.195357
+End name method: confirm_city
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:16.196359
+Start name method: check_city
+
+End time: 2023-10-22 18:36:16.274367
+End name method: check_city
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:16.274367
+Start name method: open_all_producers
+
+End time: 2023-10-22 18:36:18.379416
+End name method: open_all_producers
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:18.379416
+Start name method: check_number_of_producers
+
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:18.379416
+Start name method: check_text_number_of_producers
+
+End time: 2023-10-22 18:36:18.426117
+End name method: check_text_number_of_producers
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:18.427117
+Start name method: count_number_of_producers
+
+End time: 2023-10-22 18:36:18.473129
+End name method: count_number_of_producers
+URL: https://catalog.onliner.by/notebook
+
+-----
+End time: 2023-10-22 18:36:18.479132
+End name method: check_number_of_producers
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:18.479132
+Start name method: open_all_producers
+
+End time: 2023-10-22 18:36:20.563686
+End name method: open_all_producers
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:20.563686
+Start name method: select_producer
+
+End time: 2023-10-22 18:36:20.733613
+End name method: select_producer
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:20.734614
+Start name method: enter_max_price
+
+End time: 2023-10-22 18:36:20.924069
+End name method: enter_max_price
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:20.924069
+Start name method: select_purpose
+
+End time: 2023-10-22 18:36:21.074003
+End name method: select_purpose
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:21.075003
+Start name method: select_screen_size
+
+End time: 2023-10-22 18:36:21.228421
+End name method: select_screen_size
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:21.228421
+Start name method: check_producer
+
+End time: 2023-10-22 18:36:21.285291
+End name method: check_producer
+URL: https://catalog.onliner.by/notebook
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:36:21.286302
+Start name method: check_max_price
+

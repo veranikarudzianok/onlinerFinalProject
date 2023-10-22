@@ -1,0 +1,75 @@
+Start test
+Open website
+Current URL: https://www.onliner.by/
+Current URL is correct
+Open Catalog page
+Current URL: https://catalog.onliner.by/
+Current URL is correct
+Catalog navigation title is correct
+Open Computers and networks
+Open Laptops, computers, monitors
+Open Laptops
+Close pop up
+Text is: Ноутбуки
+Text is correct
+City confirmed
+Text is: Минск
+Text is correct
+City is correct
+Open list of producers
+Text number of producers is: 52
+Number of producers is: 52
+Number of producers is correct
+Open list of producers
+Select Apple producer
+Select purpose
+Purpose selected
+Select screen size
+Screen size option selected
+Text is: Apple
+Text is correct
+Producer is correct
+Text is: до 7 000
+Text is correct
+Max price is correct
+Text is: для работы
+Text is correct
+Purpose is correct
+Text is: до 15.0"
+Text is correct
+Text is: популярные
+Text is correct
+Open orders
+Select order
+Text is: дешевые
+Text is correct
+Ноутбук Apple Macbook Air 13" M1 2020 MGN63
+Ноутбук Apple Macbook Air 13" M1 2020 MGND3
+Add product 1 to comparison
+Add product 2 to comparison
+Go to comparison page
+Ноутбук Apple Macbook Air 13" M1 2020 MGN63
+Ноутбук Apple Macbook Air 13" M1 2020 MGND3
+Product names on Catalog and Comparison page match
+Product names on Catalog and Comparison page match
+Trash button clicked
+Clear comparison button clicked
+Text is: Добавить к сравнению
+Text is correct
+Comparison cleared
+Add to cart button clicked
+Go to cart button clicked
+Registration button clicked
+Input street
+Input House
+Input Liter
+Input entrance
+Input floor
+Input Apartment
+Input Comment
+Input First Name
+Input Last Name
+Input email
+Input phone
+Go to payment button clicked
+Finish test

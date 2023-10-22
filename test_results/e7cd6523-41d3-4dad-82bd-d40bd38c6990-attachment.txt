@@ -1,0 +1,20 @@
+Start test
+Open website
+Current URL: https://www.onliner.by/
+Current URL is correct
+Open Catalog page
+Current URL: https://catalog.onliner.by/
+Current URL is correct
+Open Computers and networks
+Open Laptops, computers, monitors
+Open Laptops
+Close pop up
+Text is: Ноутбуки
+Text is correct
+City confirmed
+Text is: Минск
+Text is correct
+City is correct
+Add product 1 to comparison
+Go to comparison page
+Finish test

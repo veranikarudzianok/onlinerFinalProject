@@ -1,0 +1,5 @@
+Start test
+Open website
+Current URL: https://www.onliner.by/
+Current URL is correct
+Finish test

@@ -1,0 +1,30 @@
+Start test
+Testing started!
+Open website
+Current URL: https://www.onliner.by/
+Current URL is correct
+Click top logo
+Current URL: https://www.onliner.by/
+Current URL is correct
+Open News page
+Current URL: https://www.onliner.by/
+Current URL is correct
+Open Auto flea page
+Current URL: https://ab.onliner.by/
+Current URL is correct
+Open Houses and apartments page
+Current URL: https://r.onliner.by/pk/
+Current URL is correct
+Open Services page
+Current URL: https://s.onliner.by/tasks
+Current URL is correct
+Open Flea market page
+Current URL: https://baraholka.onliner.by/
+Current URL is correct
+Open Forum page
+Current URL: https://forum.onliner.by/
+Current URL is correct
+Open Catalog page
+Current URL: https://catalog.onliner.by/
+Current URL is correct
+Finish test

@@ -1,0 +1,28 @@
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:05:24.028437
+Start name method: open_website
+
+End time: 2023-10-22 18:05:25.620852
+End name method: open_website
+URL: https://www.onliner.by/
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:05:25.621848
+Start name method: open_catalog
+
+End time: 2023-10-22 18:05:26.999925
+End name method: open_catalog
+URL: https://catalog.onliner.by/
+
+-----
+
+-----
+Test: tests/test_buy_laptop.py::test_buy_filtered_laptop (call)
+Start time: 2023-10-22 18:05:27.000919
+Start name method: check_catalog_navigation_title
+

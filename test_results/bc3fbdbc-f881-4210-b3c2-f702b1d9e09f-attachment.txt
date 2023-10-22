@@ -1,0 +1,17 @@
+Start test
+Open website
+Current URL: https://www.onliner.by/
+Current URL is correct
+Click top logo
+Current URL: https://www.onliner.by/
+Current URL is correct
+Open News page
+Current URL: https://www.onliner.by/
+Current URL is correct
+Open Auto flea page
+Current URL: https://ab.onliner.by/
+Current URL is correct
+Open Houses and apartments page
+Current URL: https://r.onliner.by/pk/
+Current URL is correct
+Finish test
