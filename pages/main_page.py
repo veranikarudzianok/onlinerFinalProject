@@ -18,7 +18,7 @@ class MainPage(Base):
     open_news_button = '//*[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[2]/a/span'
     open_auto_flea_market_button = '//*[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'
     open_houses_and_apartments_button = '//*[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a'
-    open_services_button = '//*[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[5]/a[2]/span'
+    open_services_button = '//*[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[5]/a/span'
     open_flea_market_button = '//*[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[6]/a/span'
     open_forum_button = '//*[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[7]/a/span'
 
